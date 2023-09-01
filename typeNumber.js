@@ -1,5 +1,3 @@
-// tipo Number
-
 const meuNumero = 3;
 
 const primeiroNumero = 100;
@@ -18,7 +16,6 @@ const novaOperacao = primeiroNumero * numeroPontoFlutuante;
 console.log(novaOperacao.toFixed(1));
 
 
-// NaN -> Not a Number (Nâo é um número)
 
 const alura = "Alura";
 
